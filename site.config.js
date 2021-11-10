@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'yayale',
-  domain: 'https://yayalor.notion.site/yayale-s-blog-4882090c6de342da967002c5b0ca84e3',
+  domain: 'https://yayale.xyz/',
   author: 'yayale',
 
   // open graph metadata (optional)
